@@ -1,0 +1,16 @@
+10:19:44.112 [main] INFO  StepDefinition.Hook - ------------------Search for WebDevelopment Courses --------------
+10:20:20.078 [main] INFO  StepDefinition.Hook - ------------------Navigate to home page---------------
+10:21:00.908 [main] INFO  StepDefinition.Hook - ------------------Navigate to the form ---------------
+10:25:47.772 [main] INFO  StepDefinition.Hook - ------------------Navigate to home page---------------
+10:26:10.026 [main] INFO  StepDefinition.Hook - ------------------Navigate to the form ---------------
+10:28:18.264 [main] INFO  StepDefinition.Hook - ------------------Search for WebDevelopment Courses --------------
+10:28:58.043 [main] INFO  StepDefinition.Hook - ------------------Select the WebDevelopment Skill---------------
+10:29:07.791 [main] INFO  StepDefinition.Hook - ------------------Select the English Language---------------
+10:29:11.221 [main] INFO  StepDefinition.Hook - ------------------Select the Level of course---------------
+10:29:17.243 [main] INFO  StepDefinition.Hook - ------------------Fetching the Course details---------------
+10:30:35.850 [main] INFO  StepDefinition.Hook - ------------------Navigate to home page---------------
+10:31:06.739 [main] INFO  StepDefinition.Hook - ------------------Select the Language learning Subject---------------
+10:31:13.559 [main] INFO  StepDefinition.Hook - ------------------Fetching the Language Counts---------------
+10:31:14.874 [main] INFO  StepDefinition.Hook - ------------------Fetching the Level Counts---------------
+10:31:32.649 [main] INFO  StepDefinition.Hook - ------------------Navigate to the form ---------------
+10:33:48.821 [main] INFO  StepDefinition.Hook - ------------------Filling the form---------------
